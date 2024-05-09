@@ -1,0 +1,4 @@
+Start Command:
+
+skywars.cmd.start
+

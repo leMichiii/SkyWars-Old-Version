@@ -1,0 +1,10 @@
+name: SkyWars
+version: '${project.version}'
+main: de.zcreeper.skywars.SkyWars
+api-version: '1.20'
+
+commands:
+  start:
+    aliases:
+      - forcestart
+      - force
